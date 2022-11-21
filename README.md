@@ -9,3 +9,4 @@ I plan to read &amp; work on five articles a day to become senior dev in 6 month
 * https://www.sankalpjonna.com/learn-django/managing-concurrency-in-django-using-select-for-update
 * https://serverfault.com/questions/633067/how-do-i-auto-start-docker-containers-at-system-boot
 * https://www.youtube.com/watch?v=uFsaiEhr1zs - AWS APIGateway - Lambda
+* https://www.youtube.com/watch?v=FIrzkt7kH80 - AWS APIGateway - websockets lambda

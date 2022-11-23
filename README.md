@@ -14,3 +14,4 @@ I plan to read &amp; work on five articles a day to become senior dev in 6 month
 * https://askubuntu.com/questions/32730/how-to-remove-postgres-from-my-installation
 * https://postgrescheatsheet.com/#/databases Postgresql cheatsheet
 * https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge - unable to authenticate postgres
+* https://zditect.com/blog/2959148.html - Django distributed locking

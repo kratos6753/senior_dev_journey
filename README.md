@@ -12,3 +12,4 @@ I plan to read &amp; work on five articles a day to become senior dev in 6 month
 * https://www.youtube.com/watch?v=FIrzkt7kH80 - AWS APIGateway - websockets lambda
 * https://medium.com/@alexandre.laplante/djangos-select-for-update-with-examples-and-tests-caff09414766
 * https://askubuntu.com/questions/32730/how-to-remove-postgres-from-my-installation
+* https://postgrescheatsheet.com/#/databases Postgresql cheatsheet

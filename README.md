@@ -15,3 +15,4 @@ I plan to read &amp; work on five articles a day to become senior dev in 6 month
 * https://postgrescheatsheet.com/#/databases Postgresql cheatsheet
 * https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge - unable to authenticate postgres
 * https://zditect.com/blog/2959148.html - Django distributed locking
+* https://www.fcc.gov/consumers/guides/what-toll-free-number-and-how-does-it-work - identify tollfree numbers

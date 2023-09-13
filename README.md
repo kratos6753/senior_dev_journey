@@ -17,3 +17,5 @@ I plan to read &amp; work on five articles a day to become senior dev in 6 month
 * https://zditect.com/blog/2959148.html - Django distributed locking
 * https://www.fcc.gov/consumers/guides/what-toll-free-number-and-how-does-it-work - identify tollfree numbers
 * https://towardsdatascience.com/requirements-vs-setuptools-python-ae3ee66e28af
+* https://cloudinary.com/guides/video-formats/webm-format-what-you-should-know
+* https://blog.gskinner.com/archives/2021/10/alpha-video-in-html5.html

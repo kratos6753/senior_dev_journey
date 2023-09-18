@@ -21,3 +21,4 @@ I plan to read &amp; work on five articles a day to become senior dev in 6 month
 * https://blog.gskinner.com/archives/2021/10/alpha-video-in-html5.html
 * https://www.educative.io/answers/what-is-weak-reference-in-python
 * https://medium.com/nerd-for-tech/weakref-module-in-python-35e105cd5033
+* https://www.linkedin.com/pulse/getting-started-pyframe-open-source-python-framework-released-shah/

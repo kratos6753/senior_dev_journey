@@ -22,3 +22,6 @@ I plan to read &amp; work on five articles a day to become senior dev in 6 month
 * https://www.educative.io/answers/what-is-weak-reference-in-python
 * https://medium.com/nerd-for-tech/weakref-module-in-python-35e105cd5033
 * https://www.linkedin.com/pulse/getting-started-pyframe-open-source-python-framework-released-shah/
+* https://www.honeybadger.io/blog/docker-django-react/
+* https://computingforgeeks.com/dockerize-django-application-with-postgresql/
+* https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/

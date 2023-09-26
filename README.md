@@ -27,3 +27,4 @@ I plan to read &amp; work on five articles a day to become senior dev in 6 month
 * https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/
 * https://www.educative.io/answers/how-to-generate-a-django-secretkey
 * https://superuser.com/questions/90008/how-to-clear-the-contents-of-a-file-from-the-command-line
+* https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-20-04

@@ -29,3 +29,5 @@ I plan to read &amp; work on five articles a day to become senior dev in 6 month
 * https://superuser.com/questions/90008/how-to-clear-the-contents-of-a-file-from-the-command-line
 * https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-20-04
 * https://medium.com/@anthonygore/chain-your-javascript-methods-like-a-boss-with-fluent-apis-e5faf1d3ce5
+* https://www.youtube.com/watch?v=YON9PliOYFk
+* https://www.pgbouncer.org/usage.html
